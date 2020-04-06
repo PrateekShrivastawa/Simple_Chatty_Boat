@@ -4,9 +4,9 @@ import java.util.Scanner;
 public interface SimpleBoat {
     static Scanner sc = new Scanner(System.in);
 
-    static void great(String assistantName, String birthYear) {
+    static void great(String assistantName, String inventedin) {
         System.out.println("Hello! My name is " + assistantName + ".");
-        System.out.println("I was created in " + birthYear + ".");
+        System.out.println("I was created in " + inventedin + ".");
         System.out.println("Please, remind me your name.");
     }
 
