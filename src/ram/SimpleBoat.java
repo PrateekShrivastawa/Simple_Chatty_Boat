@@ -1,7 +1,7 @@
 package ram;
 import java.util.Scanner;
 
-public class SimpleBoat {
+public interface SimpleBoat {
     static Scanner sc = new Scanner(System.in);
 
     static void great(String assistantName, String birthYear) {
