@@ -4,4 +4,8 @@ Here, at the beginning of your programmer’s path, creating a simple console ch
 # Learning outcomes
 You’ll get to know the basic syntax of Java and write a simple program using variables, conditions, loops, and functions.
 
+![Screenshot (47)](https://user-images.githubusercontent.com/59281742/78594175-6fbe6480-7865-11ea-92cd-f54445fb9115.png)
+
 ![Screenshot (48)](https://user-images.githubusercontent.com/59281742/78594212-7fd64400-7865-11ea-9b7b-b57d47145e92.png)
+
+
